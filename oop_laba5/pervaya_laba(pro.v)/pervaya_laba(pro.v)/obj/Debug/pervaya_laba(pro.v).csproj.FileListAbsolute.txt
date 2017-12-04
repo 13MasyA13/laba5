@@ -1,0 +1,9 @@
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\bin\Debug\pervaya_laba(pro.v).exe.config
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\bin\Debug\pervaya_laba(pro.v).exe
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\bin\Debug\pervaya_laba(pro.v).pdb
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\obj\Debug\pervaya_laba(pro.v).csprojResolveAssemblyReference.cache
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\obj\Debug\pervaya_laba_pro.v_.Form1.resources
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\obj\Debug\pervaya_laba_pro.v_.Properties.Resources.resources
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\obj\Debug\pervaya_laba(pro.v).csproj.GenerateResource.Cache
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\obj\Debug\pervaya_laba(pro.v).exe
+D:\C#\pervaya_laba(pro.v)\pervaya_laba(pro.v)\obj\Debug\pervaya_laba(pro.v).pdb
