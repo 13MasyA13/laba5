@@ -5,3 +5,10 @@ D:\Projects\C#\oop_laba5\oop_laba5\obj\Debug\oop_laba5.csprojResolveAssemblyRefe
 D:\Projects\C#\oop_laba5\oop_laba5\obj\Debug\oop_laba5.csproj.CoreCompileInputs.cache
 D:\Projects\C#\oop_laba5\oop_laba5\obj\Debug\oop_laba5.exe
 D:\Projects\C#\oop_laba5\oop_laba5\obj\Debug\oop_laba5.pdb
+D:\Projects\C#\laba5\oop_laba5\oop_laba5\bin\Debug\oop_laba5.exe.config
+D:\Projects\C#\laba5\oop_laba5\oop_laba5\bin\Debug\oop_laba5.exe
+D:\Projects\C#\laba5\oop_laba5\oop_laba5\bin\Debug\oop_laba5.pdb
+D:\Projects\C#\laba5\oop_laba5\oop_laba5\obj\Debug\oop_laba5.csprojResolveAssemblyReference.cache
+D:\Projects\C#\laba5\oop_laba5\oop_laba5\obj\Debug\oop_laba5.csproj.CoreCompileInputs.cache
+D:\Projects\C#\laba5\oop_laba5\oop_laba5\obj\Debug\oop_laba5.exe
+D:\Projects\C#\laba5\oop_laba5\oop_laba5\obj\Debug\oop_laba5.pdb

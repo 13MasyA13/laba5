@@ -22,7 +22,8 @@ namespace oop_laba5
         {
             int i = 0;
             this.masOfT = mas;
-            for(MyCell<T> tmp = _head; tmp != _tail; tmp = tmp.Next, i++)
+
+            for (MyCell<T> tmp = _head; tmp != _tail; tmp = tmp.Next, i++)
             {
                 masOfT[i] = tmp.Value;
             }
@@ -60,12 +61,17 @@ namespace oop_laba5
         {
             get
             {
-                return masOfT[index];
+                for(int i = 0; i < index - 1; i++)
+                {
+                    this.Dequeue();
+                }
+
+                return this.Dequeue();
             }
 
             set
             {
-                masOfT[index] = value;
+                
             }
         }
         /*
@@ -95,8 +101,8 @@ namespace oop_laba5
             q.Enqueue(150);
             q.Enqueue(500);
             q.Enqueue(50000);
-            q.CopyTo(q.masOfT);
-            int i = q.masOfT[0];
+            //q.CopyTo(q.masOfT);
+            int i = q[0];
             Console.Write(i);
             Console.ReadKey();
         }
